@@ -10,7 +10,7 @@ If you have any questions, encounter any issues, need assistance, or have concer
 
 ### Organization Administrator
 
-**Bagombeka Job**
+**Bagombeka Job**::
 Software Developer & Organization Administrator
 
 * **Website:** [Visit my website](https://www.bagombekajob.com/)
