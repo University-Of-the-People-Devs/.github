@@ -4,6 +4,26 @@ Welcome to the **University of the People Computer Science Students** GitHub Org
 
 A collaborative space for UoPeople Computer Science students to **learn, build, collaborate, contribute to open source, and gain real-world software development experience**.
 
+## Contact & Support
+
+If you have any questions, encounter any issues, need assistance, or have concerns regarding the organization, its repositories, projects, or guidelines, please feel free to contact the organization administrator.
+
+### Organization Administrator
+
+**Bagombeka Job**
+Software Developer & Organization Administrator
+
+* **Website:** [Visit my website](https://www.bagombekajob.com/)
+* **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/bagombeka-job/)
+* **GitHub:** [github.com/BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV)
+* **Email:** bagombekajob@gmail.com
+* **Phone / WhatsApp:** +256778480981
+
+You can reach out regarding contribution guidance, technical issues, repository-related questions, collaboration, or any other concerns related to the organization.
+
+If you're unsure where to start or need clarification about anything, don't hesitate to get in touch.
+
+
 > **Learn together. Build together. Grow together.**
 
 ## 🚀 What We Do
