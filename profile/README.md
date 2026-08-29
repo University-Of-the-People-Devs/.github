@@ -11,12 +11,12 @@ If you have any questions, encounter any issues, need assistance, or have concer
 ### Organization Administrator
 
 **Bagombeka Job**::
-Software Developer & Organization Administrator
+Software Engineer & Organization Administrator
 
 * **Website:** [Visit my website](https://www.bagombekajob.com/)
 * **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/bagombeka-job/)
 * **GitHub:** [github.com/BAGOMBEKA-JOB-DEV](https://github.com/BAGOMBEKA-JOB-DEV)
-* **Email:** bagombekajob@gmail.com
+* **Email:** bagombekajob@gmail.com or bagombekajob16@gmail.com
 * **Phone / WhatsApp:** +256778480981
 
 You can reach out regarding contribution guidance, technical issues, repository-related questions, collaboration, or any other concerns related to the organization.
