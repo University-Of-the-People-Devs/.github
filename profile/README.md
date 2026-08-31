@@ -113,3 +113,5 @@ It is a place for University of the People Computer Science students to collabor
 ---
 
 **Learn. Build. Collaborate. Grow. 🚀**
+**Note:** This organization is **not affiliated with or officially associated with the University of the People (UoPeople)**. It is independently maintained and used by students enrolled in the **Computer Science Bachelors program**, particularly students in the **2026 cohort starting on September 3rd, 2026**.
+
